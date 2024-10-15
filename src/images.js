@@ -1,0 +1,11 @@
+import "images/WeatherIcons/clear-day.svg";
+import "images/WeatherIcons/clear-night.svg";
+import "images/WeatherIcons/cloudy.svg";
+import "images/WeatherIcons/fog.svg";
+import "images/WeatherIcons/hail.svg";
+import "images/WeatherIcons/partly-cloudy-day.svg";
+import "images/WeatherIcons/partly-cloudy-night.svg";
+import "images/WeatherIcons/rain-snow-showers-day.svg";
+import "images/WeatherIcons/rain-snow-showers-night.svg";
+import "images/WeatherIcons/rain-snow.svg";
+import "images/WeatherIcons/rain.svg";
